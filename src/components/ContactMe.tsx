@@ -2,8 +2,7 @@
 
 import { useState, useRef } from "react";
 import { motion, useInView, Variants } from "framer-motion";
-import {
-  Terminal,
+import {Terminal,
   Send,
   CheckCircle2,
   XCircle,
